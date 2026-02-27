@@ -4,8 +4,8 @@
   # (https://git.io/typing-svg)
 
 #🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
-
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1a%2FTyping-home-keys-hand-position.svg%2F960px-Typing-home-keys-hand-position.svg.png&tbnid=5xF2U0iAVNaMFM&vet=1&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATyping-home-keys-hand-position.svg&docid=lT_tyW2rppeyyM&w=960&h=595&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=76283683d063ffbe&shem=epsdc" alt="Typing SVG" />
+// share image
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHkydjJ4aW1qZWJhYmx0dXh0bzJqbzkzY2tyMW1wZmp5b2Yya2doZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KG0110WAtDN1ZOXulr/giphy.gif" alt="Typing SVG" />
 <img src="https://share.google/UPJZrHqpfWskRSULA" alt="Typing SVG _ official" /> 
 
 </div>
