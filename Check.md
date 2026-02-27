@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
+🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
 
 <img src="https://share.google/UPJZrHqpfWskRSULA" alt="Typing SVG" />
 
