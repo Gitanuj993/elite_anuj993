@@ -1,4 +1,5 @@
 <div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1000&width=435&lines=Hey+there,+i+am+Anuj+Tanwar+!+🥶+)](https://git.io/typing-svg)
 
 #🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
 
