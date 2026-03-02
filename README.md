@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌸✨ Hey there, I am ANUJ TANWAR! ✨🌸
+# Welcome AT 
 
-<img src="https://share.google/UPJZrHqpfWskRSULA.svg" alt="Typing SVG" />
+<img src="https://share.google/UPJZrHqpfWskRSULA.svg" alt="" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 🎀 About This Kawaii Coder 🎀
+## 🎀 About AT
 
 <img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
@@ -18,26 +18,20 @@
 
 🌈 **Bio:** Problematic Thinker ! 
 📍 **Location:** India  
-💼 **Currently:** Undergraduate Student at private college.
-🎯 **Fun Fact:** Best decisions should be our default decisions.
+💼 **Currently:** BTech CSE
+🎯 **Fun Fact:** #Best decisions should be your default decisions AT.
 
 <div align="center">
-
-### 💖 Current Mood Board 💖
-
-![Pink Cloud](https://img.shields.io/badge/Mood-Kawaii%20Coding-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
-![Status](https://img.shields.io/badge/Status-happy-FFB6C1?style=for-the-badge&logo=sparkles&logoColor=white)
-
+  # Last updated : 
 </div>
 
 ---
 
-## 🚀 My Cutest Projects 🚀
+## Projects 
 
 <div align="center">
 
-### 🌟 Featured Creations 🌟
-
+<caption>Featured Creations </caption>
 <table>
 <tr>
 <td width="50%">
@@ -46,7 +40,9 @@
 [ In this field ,  learning data structure via
 console projects!]
 
-[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://mock-web-host.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+
+(https://mock-web-host.vercel.app/)
 ![Tech](https://img.shields.io/badge/Tech-Calculator-FFB6C1?style=for-the-badge)
 
 </td>
