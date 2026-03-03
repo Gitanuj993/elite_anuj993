@@ -131,7 +131,7 @@ console projects!
 🎯 **Current Goal:** DSA,CPP,Python
 ✨ **Life Motto:** Feedback driven mindset
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gitanuj993&show_icons=true&theme=radical&hide_border=true&bg_color=FF69B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFB6C1" alt="GitHub Stats" width="400"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWdtMG9rcXBpYXRpbWN1djQwZXcxbjBpMWtlYW9nMHdvMWY2ZWdoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Ee6I8ecvwFCU/giphy.gif"/>
 
 </div>
 
