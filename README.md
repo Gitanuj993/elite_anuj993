@@ -75,7 +75,8 @@ console projects!
 
 ### Languages I know
 <div align="left" display="flex" flex-direction="column">
-<table>
+  
+<table padding="none" border-radius = 20px>
   
 <th>
   
