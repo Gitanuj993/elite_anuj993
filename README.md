@@ -2,7 +2,7 @@
 
 # Welcome AT 
 
-<img src="https://share.google/UPJZrHqpfWskRSULA.svg" alt="Codding" />
+<img src="https://share.google/UPJZrHqpfWskRSULA.svg" " />
 
 </div>
 
