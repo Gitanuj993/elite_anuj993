@@ -2,8 +2,6 @@
 
 # Welcome AT 
 
-<img src="https://share.google/UPJZrHqpfWskRSULA.svg" " />
-
 </div>
 
 ---
