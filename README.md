@@ -13,11 +13,14 @@
 <img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 </div>
-
-🌈 **Bio:** Problematic Thinker ! 
-📍 **Location:** India  
-💼 **Currently:** BTech CSE
+<table>
+  <tr>
+🌈 **Bio:** Problematic Thinker !  <br>
+📍 **Location:** India  <br>
+💼 **Currently:** BTech CSE <br>
 🎯 **Fun Fact:** #Best decisions should be your default decisions AT.
+    </tr>
+</table>
 
 <div align="center">
   # Last updated : 
