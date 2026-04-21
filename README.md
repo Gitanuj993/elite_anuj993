@@ -75,7 +75,7 @@
 <div>
   <table>
     <tr>
-### Skills & Tools
+<h2> Skills & Tools </h2>
 
 ![skills](https://img.shields.io/badge/[CPP,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
 ![skills](https://img.shields.io/badge/[Pycharm]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
