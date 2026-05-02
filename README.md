@@ -14,17 +14,13 @@
 
 </div>
 <table>
-  <tr>
-🌈 ** Bio: ** Anuj Tanwar !  <br>
-📍 **Location:** India  <br>
-💼 **Currently:** BTech CSE <br>
-🎯 **Fun Fact:** #Best decisions should be your default decisions AT.
-    </tr>
+  <th> Software Engineer AT </th>
+  " it is an github portfolio " 
 </table>
 
 <div align="center">
   # Last updated : 
-  <h4>22nd-April-2026 </h4>
+  <h4>2nd-March-2026 </h4>
 </div>
 
 ---
