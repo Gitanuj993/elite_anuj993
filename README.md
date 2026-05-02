@@ -15,7 +15,7 @@
 </div>
 <table>
   <tr>
-🌈 **Bio:** Problematic Thinker !  <br>
+🌈 ** Bio: ** Anuj Tanwar !  <br>
 📍 **Location:** India  <br>
 💼 **Currently:** BTech CSE <br>
 🎯 **Fun Fact:** #Best decisions should be your default decisions AT.
@@ -77,10 +77,11 @@
     <tr>
 <h2> Skills & Tools </h2>
 
-![skills](https://img.shields.io/badge/[CPP,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)(#)
-![skills](https://img.shields.io/badge/[Pycharm]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)(#)
-![skills](https://img.shields.io/badge/[vscode]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)(#)
-![skills](https://img.shields.io/badge/[Python]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)(#)
+![skills](https://img.shields.io/badge/[Git,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Pycharm]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[vscode]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Python]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[C++]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
 </tr>
 </table>
 </div>
@@ -90,8 +91,8 @@
 <div align="center">
 
 
-[![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&include_all_commits=true&line_height=24)](#)
-[![Gitanuj993's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanuj993&langs_count=6&layout=compact&theme=tokyonight)](#)
+![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&include_all_commits=true&line_height=24)]
+[![Gitanuj993's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanuj993&langs_count=6&layout=compact&theme=tokyonight)]
   
 </div>
 
@@ -103,7 +104,7 @@
 
 🌱 **Growing my skills in:** [Software Engineering !]
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=FF69B4&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />(#)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=FF69B4&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -116,7 +117,7 @@
 ### 🎀 Personal habits 🎀
 
 🎨 **Hobbies:** Literature learning , Basketball sport , chess .  
-🎯 **Current Goal:** DSA,CPP,Python
+🎯 **Current Goal:** DSA practice,CPP,Python
 ✨ **Life Motto:** Feedback driven mindset
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWdtMG9rcXBpYXRpbWN1djQwZXcxbjBpMWtlYW9nMHdvMWY2ZWdoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Ee6I8ecvwFCU/giphy.gif"/>
@@ -145,11 +146,10 @@
   <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-### 🌸 Thanks for visiting this iconic profile from the sea .! 🌸
-
+### 🚀 Nice to See You here ! 
 <img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be glade to connect with you!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> if you want to discuss and implement ideas and projects reach out to me.<b>hi, I'll be glade to connect with you!</b> 😊</em>
 
 </div>
 
