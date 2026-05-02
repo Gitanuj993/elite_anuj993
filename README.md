@@ -91,7 +91,11 @@
 <div align="center">
 
 
-[![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&include_all_commits=true&line_height=24)]
+[![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&line_height=24)]
+
+<br>
+
+
 [![Gitanuj993's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanuj993&langs_count=6&layout=compact&theme=tokyonight)]
   
 </div>
