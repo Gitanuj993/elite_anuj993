@@ -10,7 +10,7 @@
 
 ## 🎀 About AT
 
-<img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">(#)
+<img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 </div>
 <table>
@@ -91,7 +91,7 @@
 <div align="center">
 
 
-![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&include_all_commits=true&line_height=24)]
+[![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&include_all_commits=true&line_height=24)]
 [![Gitanuj993's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanuj993&langs_count=6&layout=compact&theme=tokyonight)]
   
 </div>
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-🌱 **Growing my skills in:** [Software Engineering !]
+**[Software Engineering !]**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=FF69B4&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
