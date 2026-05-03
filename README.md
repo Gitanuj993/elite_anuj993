@@ -15,7 +15,7 @@
 </div>
 <table>
   <th> Software Engineer AT </th>
-  " it is an github portfolio " 
+<a href = "https://gitanuj993.vercel.app/" > <li>" See github portfolio " </li> </a>
 </table>
 
 <div align="center">
