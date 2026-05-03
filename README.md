@@ -20,7 +20,7 @@
 
 <div align="center">
   # Last updated : 
-  <h4>2nd-March-2026 </h4>
+  <h4>3rd-March-2026 </h4>
 </div>
 
 ---
@@ -60,11 +60,11 @@
   
 <tr>
   
-![Hindi](https://img.shields.io/badge/Hindi-FF1493?style=for-the-badge&logo=code&logoColor=white)
-![English](https://img.shields.io/badge/English-FF69B4?style=for-the-badge&logo=code&logoColor=white)
-![kannada](https://img.shields.io/badge/Kannada-FFB6C1?style=for-the-badge&logo=code&logoColor=white)
-![Nimari](https://img.shields.io/badge/Nimari-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-![Sanskrat](https://img.shields.io/badge/Sanskrat-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![Hindi](https://img.shields.io/badge/Hindi-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![English](https://img.shields.io/badge/English-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![kannada](https://img.shields.io/badge/Kannada-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![Nimari](https://img.shields.io/badge/Nimari-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![Sanskrat](https://img.shields.io/badge/Sanskrat-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 </tr>
 </table>
 </div>
@@ -73,11 +73,11 @@
     <tr>
 <h2> Skills & Tools </h2>
 
-![skills](https://img.shields.io/badge/[Git,Github]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-![skills](https://img.shields.io/badge/[Pycharm]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-![skills](https://img.shields.io/badge/[vscode]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-![skills](https://img.shields.io/badge/[Python]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
-![skills](https://img.shields.io/badge/[C++]-FFC0CB?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Git,Github]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Pycharm]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[vscode]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[Python]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
+![skills](https://img.shields.io/badge/[C++]-1f6feb?style=for-the-badge&logo=code&logoColor=white)
 </tr>
 </table>
 </div>
@@ -104,7 +104,7 @@
 
 **[Software Engineering !]**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=FF69B4&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gitanuj993&theme=radical&hide_border=true&background=1f6feb&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -131,23 +131,23 @@
 ## 💌 Let's Connect & Create Magic Together! 💌
 
 <a href="https://www.linkedin.com/in/anuj-tanwar-aa0977279">
-  <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="#"> 
-  <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-1f6feb?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Discord-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-1f6feb?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Website-FFC0CB?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  <img src="https://img.shields.io/badge/Website-1f6feb?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
 </a>
 <a href="mailto:gleuser83@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 ### 🚀 Nice to See You here ! 
-<img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=1f6feb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> if you want to discuss and implement ideas and projects reach out to me.<b>hi, I'll be glade to connect with you!</b> 😊</em>
 
