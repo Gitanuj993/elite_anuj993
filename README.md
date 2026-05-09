@@ -86,7 +86,7 @@
 ---
 <div align="center">
 
-
+<!--
 [![Gitanuj993's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Gitanuj993&count_private=true&theme=tokyonight&showicons=true&hide=contribs&rank_icon=github&line_height=24)]
 
 <br>
@@ -96,7 +96,12 @@
   
 </div>
 
+-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitanuj993&theme=vision_friendly_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gitanuj993&theme=vision_friendly_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gitanuj993&theme=vision_friendly_dark&utcOffset=8)
 
 ## 📚 Currently Learning 📚
 
@@ -145,6 +150,8 @@
 <a href="mailto:gleuser83@gmail.com">
   <img src="https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gitanuj993&theme=vision_friendly_dark)
 
 ### 🚀 Nice to See You here ! 
 <img src="https://komarev.com/ghpvc/?username=Gitanuj993&color=1f6feb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
