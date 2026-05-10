@@ -6,23 +6,33 @@
 
 ---
 
+<div>
+  <img align="right" alt="Kawaii Coding GIF" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
+
+
+
 <div align="center">
 
 ## 🎀 About AT
 
-<img align="right" alt="Kawaii Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+<hr>
 </div>
+<div align = "centre" >
 <table>
   <th> Software Engineer AT </th>
-<a href = "https://gitanuj993.vercel.app/" > <li>" See github portfolio " </li> </a>
+<a href = "https://gitanuj993.vercel.app/" > <li>"     See Anuj Tanwar' s portfolio " </li> </a>
 </table>
+</div>
 
-<div align="center">
+
+
+---
+  <div align="center">
   # Last updated : 
   <h4>3rd-March-2026 </h4>
 </div>
-
 ---
 
 ## Projects 
