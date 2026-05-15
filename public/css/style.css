@@ -7,6 +7,28 @@ body {
     letter-spacing: 0.2px;
     
 }
+input,
+textarea {
+    width: 90%;
+    max-width: 500px;
+
+    padding: 12px;
+
+    border-radius: 8px;
+    border: 1px solid #30363d;
+
+    background: #0d1117;
+    color: white;
+
+    font-size: 15px;
+
+    outline: none;
+}
+
+input:focus,
+textarea:focus {
+    border-color: #58a6ff;
+}
 .logo h1{
     font-family: 'Space Grotesk', sans-serif;
     font-size: 42px;
