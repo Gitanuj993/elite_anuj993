@@ -3,6 +3,9 @@ body {
     font-family: 'Inter', sans-serif;
     background: #0d1117;
     color: #e6edf3;
+    line-height: 1.7;
+    letter-spacing: 0.2px;
+    
 }
 .logo h1{
     font-family: 'Space Grotesk', sans-serif;
