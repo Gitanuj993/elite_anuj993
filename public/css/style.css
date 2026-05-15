@@ -4,6 +4,9 @@ body {
     background: #0d1117;
     color: #e6edf3;
 }
+.logo{
+    font-family: 'Space Grotesk', sans-serif;
+}
 
 .container {
     width: 90%;
