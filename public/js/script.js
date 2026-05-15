@@ -76,3 +76,7 @@ form.addEventListener("submit", async (e) => {
     }
 
 });
+
+const success_msg = document.getElementById("success-message")
+;success_msg.innerText = "Message sent successfully 🚀";
+            
