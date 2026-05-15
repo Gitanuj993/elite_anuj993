@@ -7,6 +7,16 @@ body {
     letter-spacing: 0.2px;
     
 }
+#success-message {
+
+    opacity: 0;
+
+    transition: 0.3s ease;
+
+    color: #58a6ff;
+
+    margin-top: 15px;
+}
 input,
 textarea {
     width: 90%;
