@@ -81,6 +81,7 @@ form.addEventListener("submit", async (e) => {
     }
 
 });
+success_msg.style.opacity = "1";
 
 
             
