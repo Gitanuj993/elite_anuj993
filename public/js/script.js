@@ -62,6 +62,11 @@ form.addEventListener("submit", async (e) => {
             success_msg.innerText = "Message sent successfully 🚀";
            // alert("Message sent successfully 🚀");
             success_msg.style.opacity = "1";
+            setTimeout(() => {
+
+    success_msg.style.opacity = "0";
+
+}, 3000);
 
             form.reset();
 
