@@ -31,6 +31,11 @@ form.addEventListener("submit", async (e) => {
 
 });
 */
+// space for successful message 
+const success_msg = document.getElementById("success-message")
+;
+
+// Actual message delivery procedure 
 const form = document.getElementById("contact-form");
 
 form.addEventListener("submit", async (e) => {
@@ -54,8 +59,8 @@ form.addEventListener("submit", async (e) => {
         console.log(data);
 
         if (data.success) {
-
-            alert("Message sent successfully 🚀");
+            success_msg.innerText = "Message sent successfully 🚀";
+           // alert("Message sent successfully 🚀");
 
             form.reset();
 
@@ -77,6 +82,5 @@ form.addEventListener("submit", async (e) => {
 
 });
 
-const success_msg = document.getElementById("success-message")
-;success_msg.innerText = "Message sent successfully 🚀";
+
             
