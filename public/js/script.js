@@ -61,6 +61,7 @@ form.addEventListener("submit", async (e) => {
         if (data.success) {
             success_msg.innerText = "Message sent successfully 🚀";
            // alert("Message sent successfully 🚀");
+            success_msg.style.opacity = "1";
 
             form.reset();
 
@@ -81,7 +82,7 @@ form.addEventListener("submit", async (e) => {
     }
 
 });
-success_msg.style.opacity = "1";
+
 
 
             
